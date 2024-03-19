@@ -3,6 +3,7 @@ def max_consecutive_sum(nums):
     # implementar a solução aqui
     pass
 
+
 # Testes 01
 def test_max_consecutive_sum():
     print(max_consecutive_sum([1, -3, 2, 1, -1]) == 3)
@@ -16,6 +17,7 @@ def test_max_consecutive_sum():
 def is_palindrome(word):
     # implementar a solução aqui
     pass
+
 
 # Testes 02
 def text_is_palindrome():
@@ -33,6 +35,7 @@ def text_is_palindrome():
 def count_increasing_subsets(nums):
     # implementar a solução aqui
     pass
+
 
 # Testes 03
 def test_count_increasing_subsets():
